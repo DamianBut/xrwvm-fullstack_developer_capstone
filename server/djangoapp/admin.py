@@ -11,3 +11,4 @@
 # CarMakeAdmin class with CarModelInline
 
 # Register models here
+
