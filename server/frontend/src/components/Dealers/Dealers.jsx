@@ -44,7 +44,7 @@ const Dealers = () => {
   }
   useEffect(() => {
     get_dealers();
-  },[]);  
+  });  
 
 
 let isLoggedIn = sessionStorage.getItem("username") != null ? true : false;
